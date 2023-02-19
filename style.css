@@ -110,6 +110,40 @@
   margin-left: 17px;
   margin-top: 18px;
 }
+
+.image-container-4 {
+  width: 334px;
+  height: 327px;
+  background: #f1f1f1;
+  border-radius: 20px;
+  background-image: url(./images/jacket-4.png);
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+  margin-left: 17px;
+  margin-top: 18px;
+}
+.image-container-5 {
+  width: 334px;
+  height: 327px;
+  background: #f1f1f1;
+  border-radius: 20px;
+  background-image: url(./images/jacket-5.png);
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+  margin-left: 17px;
+  margin-top: 18px;
+}
+.image-container-6 {
+  width: 334px;
+  height: 327px;
+  background: #f1f1f1;
+  border-radius: 20px;
+  background-image: url(./images/jacket-6.png);
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+  margin-left: 17px;
+  margin-top: 18px;
+}
 /* common css for man and women description */
 .h1 {
   font-weight: 700;
@@ -117,16 +151,36 @@
   line-height: 28px;
   color: #363958;
 }
-.p{
+.p {
   font-weight: 400;
-font-size: 16px;
-line-height: 26px;
-color: #3E3E3E;
-
+  font-size: 16px;
+  line-height: 26px;
+  color: #3e3e3e;
+  padding-bottom: 10px;
 }
-.price{
+.price {
   font-weight: 900;
-font-size: 36px;
-line-height: 42px;
-color: #FABE4C;
+  font-size: 36px;
+  line-height: 42px;
+  color: #fabe4c;
+}
+
+/* man style end */
+
+/* Find the Perfect Fitstyle start */
+.margin {
+  margin-top: 130px;
+}
+.icon {
+  width: 78px;
+  height: 82px;
+  margin-left: 13px;
+  margin-top: 18px;
+}
+/* footer style */
+.text-white {
+  color: white;
+}
+ul li::before {
+  color: red;
 }
