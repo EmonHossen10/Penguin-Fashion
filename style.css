@@ -61,3 +61,72 @@
   font-size: 16px;
   color: white;
 }
+
+/* women area style */
+.women-heading {
+  margin-top: 120px;
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--primary-color);
+}
+.card-style {
+  width: 370px;
+  height: 550px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+  border-radius: 10px;
+  border: 0;
+}
+.image-container-1 {
+  width: 334px;
+  height: 327px;
+  background: #f1f1f1;
+  border-radius: 20px;
+  background-image: url(./images/jacket-1.png);
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+  margin-left: 17px;
+  margin-top: 18px;
+}
+.image-container-2 {
+  width: 334px;
+  height: 327px;
+  background: #f1f1f1;
+  border-radius: 20px;
+  background-image: url(./images/jacket-2.png);
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+  margin-left: 17px;
+  margin-top: 18px;
+}
+.image-container-3 {
+  width: 334px;
+  height: 327px;
+  background: #f1f1f1;
+  border-radius: 20px;
+  background-image: url(./images/jacket-3.png);
+  background-repeat: no-repeat;
+  background-size: 300px 300px;
+  margin-left: 17px;
+  margin-top: 18px;
+}
+/* common css for man and women description */
+.h1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #363958;
+}
+.p{
+  font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #3E3E3E;
+
+}
+.price{
+  font-weight: 900;
+font-size: 36px;
+line-height: 42px;
+color: #FABE4C;
+}
